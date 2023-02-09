@@ -1,5 +1,16 @@
-sp,resolved,open,closed,escalated
-Airtel,122,321,223,41
-MTN,123,126,133,98
-9Mobile,131,128,21,92
-Glo,193,236,171,174
+Country,Value
+Billing,12394
+call center/customer care,6148
+Quality of Service/Experience(Voice),1653
+Faulty Terminals,2162
+BTS Issues,1214
+Quality of Service/Experience (Data),9882
+Sales Promotions & Advertisement,41039
+Recharge/Top-Up Issues,4343
+SMS/MMS,3252
+Other Sim-Related Issues",4321
+SIM REPLACEMENT,24143
+Value-Added Services (VAS),38723
+Mobile Number Portability,8374
+Do-Not-Disturb Service,4389
+International Roaming,434
