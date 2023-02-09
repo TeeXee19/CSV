@@ -1,16 +1,16 @@
 Country,Value
 Billing,12394
-call center/customer care,6148
-Quality of Service/Experience(Voice),1653
+Call center,6148
+QoS/E(Voice),1653
 Faulty Terminals,2162
 BTS Issues,1214
-Quality of Service/Experience (Data),9882
-Sales Promotions & Advertisement,41039
-Recharge/Top-Up Issues,4343
+QoS/E (Data),9882
+Sales Promotions,4103
+Recharge/Top-Up,4343
 SMS/MMS,3252
-Other Sim-Related Issues",4321
-SIM REPLACEMENT,24143
-Value-Added Services (VAS),38723
+Other Sim Issues",4321
+Sim Replacement,24143
+VAS,3872
 Mobile Number Portability,8374
-Do-Not-Disturb Service,4389
-International Roaming,434
+DND Service,4389
+Intl Roaming,434
